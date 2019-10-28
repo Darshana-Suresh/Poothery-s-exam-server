@@ -1,0 +1,140 @@
+.title-box {
+    padding: 70px 0px;
+}
+
+.card-box{
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.test-title{
+    text-transform: uppercase;
+}
+
+.admin-name{
+    color: gray;
+    text-transform: capitalize;
+}
+
+.test-desc{
+    text-align: justify;
+}
+
+.btn-register{
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #007bff;
+    color: #007bff;
+}
+
+.btn-register:hover{
+    color: white;
+    background-color: #007bff;
+}
+
+.btn-deregister{
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #dc3545;
+    color: #dc3545;
+}
+
+.btn-deregister:hover{
+    color: white;
+    background-color: #dc3545;
+}
+
+.btn-start{
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #3cca11;
+    color: #3cca11;
+}
+
+.btn-start:hover{
+    color: white;
+    background-color: #3cca11;
+}
+
+.btn-back{
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #343a40;
+    color: #343a40;
+}
+
+.btn-back:hover{
+    color: white;
+    background-color: #343a40;
+}
+
+.btn-prev{
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #343a40;
+    color: #343a40;
+}
+
+.btn-prev:hover{
+    color: white;
+    background-color: #343a40;
+}
+
+.btn-next{
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #343a40;
+    color: #343a40;
+}
+
+.btn-next:hover{
+    color: white;
+    background-color: #343a40;
+}
+
+.btn-finish-test{
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #24770a;
+    color: #24770a;
+}
+
+.btn-finish-test:hover{
+    color: white;
+    background-color: #24770a;
+}
+
+.btn-qno{
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #134c53;
+    color: #134c53;
+}
+
+.btn-qno:hover{
+    color: white;
+    background-color: #134c53;
+}
+
+.parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
